@@ -1,0 +1,3 @@
+# fotomatic
+
+A codecademy project
